@@ -39,7 +39,7 @@
 .container_change {
   display: flex;
   justify-content: space-between;
-  align-items: end;
+  align-items: flex-end;
 }
 .input_search {
   margin-top: 20px;
