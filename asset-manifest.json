@@ -1,13 +1,23 @@
 {
   "files": {
-    "main.css": "/qwerty/static/css/main.7acaea2f.css",
-    "main.js": "/qwerty/static/js/main.07d3183d.js",
+    "main.css": "/qwerty/static/css/main.fd33c6e3.css",
+    "main.js": "/qwerty/static/js/main.0aa2dab2.js",
+    "static/css/539.1e8deac7.chunk.css": "/qwerty/static/css/539.1e8deac7.chunk.css",
+    "static/js/539.819c0de4.chunk.js": "/qwerty/static/js/539.819c0de4.chunk.js",
+    "static/css/848.9fe75add.chunk.css": "/qwerty/static/css/848.9fe75add.chunk.css",
+    "static/js/848.87e74db0.chunk.js": "/qwerty/static/js/848.87e74db0.chunk.js",
     "index.html": "/qwerty/index.html",
-    "main.7acaea2f.css.map": "/qwerty/static/css/main.7acaea2f.css.map",
-    "main.07d3183d.js.map": "/qwerty/static/js/main.07d3183d.js.map"
+    "static/media/URL.svg": "/qwerty/static/media/URL.313da334077d0f65b0bc7129ca8ead3c.svg",
+    "static/media/Loupe.svg": "/qwerty/static/media/Loupe.c562c67dd620bba8efd5aa230acb5bf8.svg",
+    "main.fd33c6e3.css.map": "/qwerty/static/css/main.fd33c6e3.css.map",
+    "main.0aa2dab2.js.map": "/qwerty/static/js/main.0aa2dab2.js.map",
+    "539.1e8deac7.chunk.css.map": "/qwerty/static/css/539.1e8deac7.chunk.css.map",
+    "539.819c0de4.chunk.js.map": "/qwerty/static/js/539.819c0de4.chunk.js.map",
+    "848.9fe75add.chunk.css.map": "/qwerty/static/css/848.9fe75add.chunk.css.map",
+    "848.87e74db0.chunk.js.map": "/qwerty/static/js/848.87e74db0.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7acaea2f.css",
-    "static/js/main.07d3183d.js"
+    "static/css/main.fd33c6e3.css",
+    "static/js/main.0aa2dab2.js"
   ]
 }
